@@ -1,4 +1,4 @@
-# Thank-you-for-donate
+# Thank-you-for-donation
 
 感謝您對 [https://github.com/twtrubiks](https://github.com/twtrubiks) 以及 [youtube 教學頻道](https://www.youtube.com/channel/UCPhn2rCqhu0HdktsFjixahA) 的支持 :thumbsup:
 
